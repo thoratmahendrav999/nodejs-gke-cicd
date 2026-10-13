@@ -1,0 +1,7 @@
+name: Node.js GKE CI/CD
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
